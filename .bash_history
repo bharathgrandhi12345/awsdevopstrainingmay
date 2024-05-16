@@ -14,3 +14,8 @@ cat aws.txt
 vi aws.txt
 cat aws.txt
 vi aws.txt
+vi aws1.txt
+cat aws1.txt
+sudo  su -
+yum install git -y
+sudo su -
